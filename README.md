@@ -1,4 +1,4 @@
-# QA Portfolio: News Feed Search & Filtering
+# QA Test Suite: Search and Calendar Filters
 
 ## 📌 Project Overview
 
