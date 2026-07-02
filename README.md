@@ -4,7 +4,12 @@
 
 This repository contains a manual test suite and bug reports for News Feed search and date filtering functionality.
 
-Testing covers:
+### 🔗 Project Link
+[Click here to open the live application](https://pratacat.github.io/team-project-js/)
+
+---
+
+## 🔍 Testing covers:
 
 * Calendar widget behavior
 * Date selection and navigation
@@ -16,10 +21,10 @@ Testing covers:
 
 ## 📊 Test Execution Summary
 
-* 📋 **Total Test Cases:** 8
+* 📋 **Total test cases:** 8
 * 🟢 **Passed:** 5 (`TC-001`, `TC-002`, `TC-004`, `TC-005`, `TC-007`)
 * 🔴 **Failed:** 3 (`TC-003`, `TC-006`, `TC-008`)
-* 🐛 **Bugs Found:** 5 (2 High, 2 Medium, 1 Low)
+* 🐛 **Bugs found:** 5 (2 High, 2 Medium, 1 Low)
 
 ---
 
@@ -33,5 +38,5 @@ Testing covers:
 ## 🛠️ Test Environment & Methodology
 
 * **OS:** Windows 11 / macOS
-* **Browsers:** Google Chrome (Latest Version), DevTools Mobile Emulation
-* **QA Techniques:** Boundary Value Analysis, Equivalence Partitioning, Negative Testing, UI/UX Testing
+* **Browsers:** Google Chrome (latest version), DevTools mobile emulation
+* **QA Techniques:** Boundary value analysis, Equivalence partitioning, Negative testing, UI/UX testing
