@@ -1,8 +1,8 @@
-# QA Test Suite: Search and Calendar Filters
+# QA Test Suite: Calendar Filter Integration
 
 ## 📌 Project Overview
 
-This repository contains a manual test suite and bug reports for News Feed search and date filtering functionality.
+This repository contains a manual test suite and bug reports for the News Feed date filtering functionality and its interaction with the global search feature.
 
 ### 🔗 Project Link
 [Click here to open the live application](https://pratacat.github.io/team-project-js/)
